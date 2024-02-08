@@ -1,7 +1,7 @@
 <?php 
 try{
     $host = "localhost";
-    $user = "root";
+    $user = "finaltodolist.com";
     $password = "";
     $dbname = "hansel";
 
